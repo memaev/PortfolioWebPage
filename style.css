@@ -293,6 +293,10 @@ section {
   border-radius: 2rem;
 }
 
+#experience-education{
+  margin-top: 5rem;
+}
+
 .arrow {
   position: absolute;
   right: -5rem;
@@ -324,6 +328,7 @@ section {
 
 #experience {
   position: relative;
+  margin-top: 3rem;
 }
 
 .experience-sub-title {
